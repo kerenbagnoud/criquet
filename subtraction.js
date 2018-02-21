@@ -1,6 +1,6 @@
 function subtract(a, b) {
   // vouala comment faire une soustraction askip
-  return a-b;
+  return -b+a;
 }
 
 calculate('subtraction', subtract);
